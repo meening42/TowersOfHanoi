@@ -38,7 +38,7 @@ Towers of Hanoi - recursion exercise
 //        move(n - 1, source, auxiliary, target)
 //
 //        # move the nth disk from source to target
-//        target.append(source.pop())
+//        target.append(source.pop()) 
 //
 //        # Display our progress
 //        print(A, B, C, '##############', sep = '\n')
