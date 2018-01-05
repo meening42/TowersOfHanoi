@@ -1,4 +1,7 @@
 # TowersOfHanoi
+
+Animates steps solving Towers of Hanoi puzzle. Input the number of discs betweeen 1 and 10
+
 Towers of Hanoi - recursion exercise
 
 //******************************************
